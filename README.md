@@ -7,8 +7,8 @@
 We perform following operations:
  - Add new movies.
  - Sell a movie in the inventory.
- - Add new copies of existing movies
- - Change the price of a movie
+ - Add new copies of existing movies.
+ - Change the price of a movie.
  - Find the price and/or quantity of a movie by either name or id.  
  
 This implementation shows the use of following Design Patterns:
