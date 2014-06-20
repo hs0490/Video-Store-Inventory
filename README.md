@@ -1,8 +1,8 @@
 # Video Store Inventory
 
 - This is an in-memory database for a video store inventory. The video store sells movie DVDs. 
-- Each movie has a name, price, unique id and a quantity. T
-- he store uses sequential integers for unique ids. 
+- Each movie has a name, price, unique id and a quantity. 
+- The store uses sequential integers for unique ids. 
 
 We perform following operations:
  - Add new movies.
